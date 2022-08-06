@@ -1,4 +1,4 @@
-# This code tells you the gender of a singular word.
+# This code tells you the gender of any singular word in nominative form.
 
 vocabulum = " "
 vocabulum = input("Quaeso, singulari verbo intrare: ")
