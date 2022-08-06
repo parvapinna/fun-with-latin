@@ -1,4 +1,4 @@
-# This code converts the singular form of any Latin word to its plural form.
+# This code converts the singular nominative form of any Latin word to its plural nominative form.
 
 vocabulum = " "
 vocabulum = input("Quaeso, singulari verbo intrare: ")
